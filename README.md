@@ -16,7 +16,7 @@
 <img src="https://github.com/liyusang1/MakeUs6th-Project/blob/master/screenshot/7.png" width="25%" height="25%" alt="바인딩"></img>
 <img src="https://github.com/liyusang1/MakeUs6th-Project/blob/master/screenshot/8.png" width="25%" height="25%" alt="바인딩"></img>
 
-by https://brunch.co.kr/@marinearchive
+**by https://brunch.co.kr/@marinearchive**
 
 ## 개발 기간
 2021.03.02 ~ 2021.04.03
