@@ -6,7 +6,7 @@
 **※ 수익형 앱 런칭 동아리 MakeUs 6기에 참여하여 진행한 프로젝트입니다.**
 * what's MakeUs? 👉 https://www.makeus.in
 
-## 소개
+## 소개 by https://brunch.co.kr/@marinearchive
 
 <img src="https://github.com/liyusang1/MakeUs6th-Project/blob/master/screenshot/3.png" width="25%" height="25%" alt="바인딩"></img>
 <img src="https://github.com/liyusang1/MakeUs6th-Project/blob/master/screenshot/4.png" width="25%" height="25%" alt="바인딩"></img>
