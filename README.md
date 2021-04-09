@@ -1,6 +1,6 @@
 # Binding(바인딩) - 독립서점, 독자, 작가를 이어주는 앱 서비스
 <img src="https://camo.githubusercontent.com/6d9e217dd19c40b7e610904f1a3166d238e1865b75560ecb09a74f80b6a12320/68747470733a2f2f7777772e677374617469632e636f6d2f616e64726f69642f6d61726b65745f696d616765732f7765622f706c61795f707269736d5f686c6f636b5f32782e706e67" width="10%" height="10%" alt="바인딩"></img>
- -> https://play.google.com/store/apps/details?id=com.makeus6.binding
+ 👉 https://play.google.com/store/apps/details?id=com.makeus6.binding
 
 
 **※ 수익형 앱 런칭 동아리 MakeUs 6기에 참여하여 진행한 프로젝트입니다.**
